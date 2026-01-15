@@ -18,3 +18,5 @@ This will add an `API_COST` column to your CSV file and display total costs.
 ## Note
 
 Only works with usage data from August 26, 2025 and later, when Cursor started tracking token usage in the Usage tab.
+
+To get the CSV go to Cursor dashboard -> Usage -> Click the date range in the middle of the screen and choose your start and end dates -> apply -> export CSV
